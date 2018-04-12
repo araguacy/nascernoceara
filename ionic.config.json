@@ -1,0 +1,8 @@
+{
+  "name": "nascernoceara",
+  "app_id": "2def2023",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
